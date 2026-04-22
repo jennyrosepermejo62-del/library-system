@@ -1,4 +1,4 @@
-# 📚 Library System
+# 📚 BIBLIOTHECA Library Management System
 
 A responsive library management system built with **PHP** and **MySQL**. It features a clean UI and allows users to manage book records efficiently.
 
